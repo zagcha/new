@@ -1,0 +1,322 @@
+
+}
+a.border-color.login-btn-holder__btn.fa.fa-star-half-o.btn.btn-primary01, a.border-color.login-btn-holder__btn.fa.fa-star-half-o.btn.btn-primary20, a.border-color.login-btn-holder__btn.fa.fa-star-half-o.btn.btn-primary03, a.border-color.login-btn-holder__btn.fa.fa-star-half-o.btn.btn-primary04, a.border-color.login-btn-holder__btn.fa.fa-star-half-o.btn.btn-primary05, a.border-color.login-btn-holder__btn.fa.fa-star-half-o.btn.btn-primary06, a.border-color.login-btn-holder__btn.fa.fa-star-half-o.btn.btn-primary07 {
+    position: relative;
+    top: -50px;
+    color: #fff;
+    display: inline-block;
+    border: .5px solid#00071c!important;
+    border-radius: 4px;
+    font-size: small;
+    background-image: radial-gradient(circle,#4e0535,#84175b,#af408c)!important;
+    border-radius: 7px 14px 7px 14px!important;
+}
+span.public_message__content_title {
+    padding-right: 2px;
+}
+.public_message.public_message_ad {
+    background-color: #dc354530 !important;
+}
+input#login-form__hidden-checkbox {
+    position: absolute;
+    left: 284px;
+}
+::-webkit-scrollbar-thumb {
+    background: 0 0;
+    border: 71px #fff;
+    border-radius: 31px;
+   background-image: radial-gradient(farthest-corner,#f00,#213046 49%,#213046 50%,#fff 100%)!important;
+}
+::-webkit-scrollbar-button {
+    width: 8px;
+    height: 5px;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    height: 10px;
+}
+
+#register-form__name, #register-form__password {
+    border: 1px solid #000!important;
+    width: 100%;
+    padding: 0!important;
+    margin: 2px 5px 2px 0;
+    margin-left: 8px;
+    border-radius: 24px;
+    text-align: center;
+    font-family: el messiri,FontAwesome!important;
+height: 28px;
+position: relative;
+}
+input#login-form__password {
+    /* position: absolute; */
+    margin-left: 33px !important;
+    border: 1px solid #000!important;
+    width: 100%;
+    border-radius: 24px;
+    padding: 0!important;
+    margin: 2px 5px 2px 0;
+margin-left: 8px !important;
+    border-radius: 24px;
+    border: 1px solid #e1e0e0;
+    text-align: center;
+    font-family: el messiri,FontAwesome!important;
+    background-color: white;
+height: 28px;
+}
+input#login-form__name {
+    border: 1px solid #000!important;
+    width: 100%;
+    padding: 0!important;
+    margin: 2px 5px 2px 0;
+    margin-left: 8px;
+    border-radius: 24px;
+    text-align: center;
+    font-family: el messiri,FontAwesome!important;
+height: 28px;
+position: relative;
+}
+form#guest-form {
+    padding: .3rem;
+    padding-bottom: 0px;
+    background: #0340a2;
+    border: 71px none #fff;
+    border-radius: 31px;
+    background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important;
+    background: #891c61;
+    border: 69px none #fff;
+    border-radius: 34px;
+    width: 65%;
+    margin-top: -105px!important;
+    text-align: end;
+    margin-left: 140px;
+    font-family: 'fanni';
+    border-radius: 8px!important;
+    height: 103px;
+    position: inherit;
+}
+form#register-form {
+    padding: .3rem;
+    padding-bottom: 0px;
+    background: #0340a2;
+    border: 71px none #fff;
+    border-radius: 31px;
+    background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important;
+    background: #891c61;
+    border: 69px none #fff;
+    border-radius: 34px;
+    width: 65%;
+    margin-top: -105px!important;
+    text-align: end;
+    margin-left: 140px;
+    font-family: 'fanni';
+    border-radius: 8px!important;
+    height: 103px;
+    position: inherit;
+}
+form#login-form {
+    padding: .3rem;
+    padding-bottom: 0px;
+    background: #891c61;
+    border: 71px none #fff;
+    border-radius: 31px;
+    background-image: -webkit-linear-gradient(45deg,rgba(255,255,255,.2) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important;
+    background: #891c61;
+    border: 69px none #fff;
+    border-radius: 34px;
+    width: 65%;
+    margin-top: -105px!important;
+    text-align: end;
+    margin-left: 140px;
+    font-family: 'fanni';
+    border-radius: 8px!important;
+    height: 103px;
+    position: inherit;
+}
+.modal-content {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    pointer-events: auto;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: .3rem;
+    outline: 0;
+    word-wrap: break-word;
+}
+#youcam-copyrights {
+ background: #a08648 !important;
+    background-color: #891c61!important;
+    border: #5e502d solid 2px;
+    color: #e8f0fe;
+    font-size: 12px !important;
+    padding: 2.9px 10px!important;
+    margin-left: 220px;
+    height: 23px;
+    margin-right: 0.36rem !important;
+}
+.wall_post__footer .btn {
+    margin-right: 0.2em;
+    font-size: 0.5rem;
+    font-weight: bold;
+    margin-bottom: 0.2em;
+}
+button.btn {
+    padding: .208rem;
+}
+.btn {
+    font-size: .7rem;
+    padding: 3px;
+    outline: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 4px -4px rgb(80, 71, 50), 0 0 8px rgb(79, 70, 49);
+
+}
+.login-btn-holder__btn {
+    width: 23%;
+height: 21px;
+}
+#connection_container_p {
+    position: inherit;
+    height: 45px;
+    background: #42503000;
+    background-image: url(),url(https://chat-dahab.com/uploads/roles/yzdt1ucl8t.jpg)!important;
+}
+#tabs-content {
+    padding: .4rem .4rem 0;
+    height: 22px;
+}
+#connection_container.p {
+    background: azure;
+    margin-bottom: 0;
+    font-size: 0.625rem;
+    text-align: right;
+    padding: 0.35rem 0;
+    background-color: #931313;
+    margin-right: 0.36rem;
+}
+li#react-tabs-1:hover {
+    color: #d5db5c !important;
+    border: 2px solid #ccb80782;
+    border-color: #eed60282 !important;
+}
+li#react-tabs-2:hover {
+    color: #d5db5c !important;
+    border: 2px solid #ccb80782;
+    border-color: #eed60282 !important;
+}
+li#react-tabs-3:hover {
+    color: #d5db5c !important;
+    border: 2px solid #ccb80782;
+    border-color: #eed60282 !important;
+}
+.react-tabs__tab {
+    font-size: .625rem;
+    border-bottom: 1px solid #dee2e60f;
+}
+.react-tabs__tab--selected {
+    border: 1px solid #dee2e61a;
+    border-bottom-color: transparent!important;
+}
+.nav-tabs {
+    border-bottom: 0px solid #dee2e6;
+}
+.react-tabs__tab a, .react-tabs__tab a.active {
+  color: #fefffc !important;
+    background-color: inherit!important;
+    margin: 0;
+    padding: .4em 0;
+    font-size: .625rem;
+}
+#connection_container #connection-state-on, #connection_container #connection-state-off, #connection_container #connection-state-on {
+   font-size: .6rem;
+    color: #fff;
+    padding: .2em .4em;
+    transform: matrix(1,0,0,1,0,3);
+    border-radius: 24px!important;
+    background-color: #fdbd300a!important;
+    font-family: el messiri,FontAwesome!important;
+    position: relative;
+}
+
+
+li#react-tabs-1 {
+       height: 32px;
+    border-radius: 3px;
+    width: 130px;
+    position: relative;
+    top: -25px;
+    background-image: radial-gradient(circle,#4e0535,#84175b,#af408c)!important;
+    font-family: 'jazeera',FontAwesome;
+    background: none;
+    height: 35px!important;
+    display: block;
+    border-radius: 3px;
+    color: #ffffff !important;
+    border: 1px solid #b0ab7e82;
+    border-color: #b0ab7e82 !important;
+    left: 8px;
+}
+li#react-tabs-2 {
+   height: 32px;
+    border-radius: 3px;
+    width: 130px;
+    position: relative;
+  top: 13px;
+    right: 121px;
+background-image: radial-gradient(circle,#4e0535,#84175b,#af408c)!important;
+font-family: 'jazeera',FontAwesome;
+    background: none;
+    height: 35px!important;
+    display: block;
+    border-radius: 3px;
+    color: #ffffff !important;
+    border: 1px solid #b0ab7e82;
+    border-color: #b0ab7e82 !important;
+}
+
+li#react-tabs-3 {
+margin-left: 9px;
+    height: 32px;
+    border-radius: 3px;
+    width: 130px;
+    position: relative;
+    top: 17px;
+background-image: radial-gradient(circle,#4e0535,#84175b,#af408c)!important;
+font-family: 'jazeera',FontAwesome;
+    background: none;
+    height: 35px!important;
+    border-radius: 3px;
+    color: #ffffff !important;
+    border: 1px solid #b0ab7e82;
+    border-color: #b0ab7e82 !important;
+}
+
+.react-tabs__tab, .react-tabs__tab-list {
+    text-align: center;
+    background-color: #2907150a;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #337ab8;
+    background-color: #f5f8fa;
+    border-color: #dee2e6 #dee2e6 #f5f8fa;
+    background: #2d081700 !important;
+}
+
+a.fa-facebook.btn.btn-primary, a.login-btn-holder__btn.fa.fa-music.btn.btn-default, a.login-btn-holder__btn.fa.fa-star-half-o.btn.btn-primary, a.login-btn-holder__btn.fa.fa-user.btn.btn-default {
+visibility: hidden;
+    position: relative;
+    top: -2px;
+    color: #fff;
+    display: inline-block;
+    border: .5px solid#00071c!important;
+    border-radius: 4px;
+    font-size: small;
+    background-image: radial-gradient(circle,#4e0535,#84175b,#af408c)!important;
+    border-radius: 7px 14px 7px 14px!important;
+}
+.chat__body__message-input__input:focus {
+    bo…</style>
